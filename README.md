@@ -5,6 +5,8 @@
 <h1>Yash Akabari</h1>
 <h3>Backend Developer · Distributed Systems 👋</h3>
 
+<img src="https://komarev.com/ghpvc/?username=YashAkabari&style=flat-square&color=58A6FF&label=Profile+Views" />
+
 </div>
 
 <br/>
@@ -86,8 +88,6 @@ The system I actively build and maintain for my college's Training & Placement C
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
-
-<br/>
 
 <div align="center">
 <sub>Always up for a conversation on backend architecture, systems design, or the trade-off nobody wants to make at 2 AM 🌙</sub>
