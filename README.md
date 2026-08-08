@@ -1,126 +1,94 @@
-<h1 align="center">Hey, I'm Yash 👋</h1>
-<h3 align="center">Backend Developer • Distributed Systems • Competitive Programmer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+backends+that+scale;Redis+%2B+Lua+%2B+Prometheus;Go+%2B+Kubernetes+controllers;750%2B+LeetCode+%7C+1818+rating" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+%26+Distributed+Systems;Rate+Limiters+%2B+Caches+%2B+Real-time+Infra;Currently+shipping+something+new" alt="Typing SVG" />
 
-<p align="center">
-  Pre-final year Computer Engineering student at L.D. College of Engineering, Ahmedabad<br/>
-  Building production backends and systems that don't fall over under load.
-</p>
+<h1>Yash Akabari</h1>
+<h3>Backend Developer · Distributed Systems 👋</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/yashakabari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YashAkabari&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
-</p>
+</div>
 
----
+<br/>
 
-### 🧭 About Me
+<div align="center">
 
-```yaml
-role: Backend Developer, Training & Placement Cell (LDCE)
-stack: Node.js · Express · PostgreSQL — serving 2,000+ students in production
-interests: [distributed systems, rate limiting, caching, real-time infra]
-competitive_programming:
-  leetcode_solved: 750+
-  contest_rating: 1818 (C++)
-academics:
-  degree: B.E. Computer Engineering
-  cgpa: 9.13
-  graduation: June 2027
-location: Ahmedabad, Gujarat, India
-currently: hunting for a strong SDE/Backend internship
-```
+### 🛠️ Toolbox
 
----
+<img src="https://skillicons.dev/icons?i=cpp,py,ts,js,nodejs,express,fastapi,postgres,redis,docker,kubernetes,nginx,prometheus,githubactions" />
 
-### ⚙️ Tech Stack
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,go,py,ts,js" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,redis" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,grafana,prometheus,githubactions" />
-</p>
+<br/>
 
----
+## 🚀 What I've Been Building
 
-### 🚀 What I've Been Building
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>⚡ Distributed Rate Limiter</h4>
+Redis sorted sets + Lua (EVALSHA) for atomic rate limiting under load, instrumented with Prometheus.
+<br/><br/>
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/> <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+</td>
+<td width="50%" valign="top">
+<h4>🔄 Code Flow</h4>
+Real-time collaborative editor — Socket.IO transport, WebRTC peer sync, Yjs CRDTs for conflict-free edits.
+<br/><br/>
+<img src="https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🗂️ OwnDrive</h4>
+Distributed object storage with CLIP-based semantic search — find files by meaning, not filename.
+<br/><br/>
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/-MinIO-C72E49?style=flat-square&logo=minio&logoColor=white"/>
+</td>
+<td width="50%" valign="top">
+<h4>🎓 Mini Placement Portal</h4>
+The system I actively build and maintain for my college's Training & Placement Cell.
+<br/><br/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</td>
+</tr>
+</table>
 
-**[Distributed Rate Limiter](https://github.com/YashAkabari)**
-Redis sorted sets + Lua scripts (EVALSHA) for atomic, low-latency rate limiting, with Prometheus metrics for observability.
-`Redis` `Lua` `Prometheus`
+<br/>
 
-**KubeGuardian**
-A Go-based Kubernetes controller built on client-go — my deepest dive into Go and the K8s controller pattern.
-`Go` `Kubernetes` `client-go`
-
-**Code Flow**
-A real-time collaborative code editor using Socket.IO, WebRTC, and Yjs CRDTs for conflict-free concurrent editing.
-`Socket.IO` `WebRTC` `Yjs`
-
-**OwnDrive**
-Distributed file storage with CLIP-based semantic search — FastAPI backend, MinIO object storage.
-`FastAPI` `MinIO` `CLIP`
-
-**[Mini Placement Portal](https://github.com/YashAkabari/Mini-Placement-Portal)**
-The system I actively maintain for my college's Training & Placement Cell.
-`TypeScript` `Node.js` `PostgreSQL`
-
----
+<div align="center">
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashAkabari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashAkabari&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=YashAkabari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashAkabari&theme=tokyonight&hide_border=true" height="165" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAkabari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YashAkabari&theme=tokyonight&hide_border=true&layout=compact" height="165" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAkabari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+<img src="https://leetcard.jacoblin.cool/Yash_Akabari?theme=dark&font=Fira%20Code" height="165" />
 
 ### 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashAkabari&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashAkabari&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashAkabari&theme=tokyo-night&hide_border=true&area=true" width="850" />
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YashAkabari/YashAkabari/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/YashAkabari/YashAkabari/output/github-contribution-grid-snake-dark.svg" width="850" />
 
-<blockquote align="center">
-Note: the streak, trophies, and snake widgets need one-time setup on your side — see "making the graphs actually work" below.
-</blockquote>
+</div>
 
----
+<br/>
 
-### 🎯 By the Numbers
+<div align="center">
 
-| | |
-|---|---|
-| 🧑‍💻 LeetCode Problems Solved | **750+** |
-| 📈 Competitive Rating (C++) | **1818** |
-| 🏗️ Students Served by T&P Backend | **2,000+** |
-| 🎓 CGPA | **9.13 / 10** |
-| 📅 Graduating | **June 2027** |
+### 📫 Connect
 
----
+<a href="https://linkedin.com/in/yashakabari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/YashAkabari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Yash_Akabari/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<p align="center"><i>Always down to talk backend architecture, systems design, or a good LeetCode problem.</i></p>
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Always up for a conversation on backend architecture, systems design, or the trade-off nobody wants to make at 2 AM 🌙</sub>
+</div>
