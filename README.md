@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+%26+Distributed+Systems;Rate+Limiters+%2B+Caches+%2B+Real-time+Infra;Currently+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+%26+Distributed+Systems;Real-time+Systems+%2B+WebSockets;Rate+Limiters+%2B+Caches+%2B+Redis;Currently+shipping+something+new" alt="Typing SVG" />
 
 <h1>Yash Akabari</h1>
 <h3>Backend Developer · Distributed Systems 👋</h3>
@@ -47,7 +47,7 @@ Distributed object storage with CLIP-based semantic search — find files by mea
 </td>
 <td width="50%" valign="top">
 <h4>🎓 Mini Placement Portal</h4>
-The system I actively build and maintain for my college's Training & Placement Cell.
+A placement management system built for my college's Training & Placement Cell.
 <br/><br/>
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </td>
